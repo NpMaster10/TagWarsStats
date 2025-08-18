@@ -1,10 +1,24 @@
 {
   "modes": {
     "arcade": {
-      "playtime": 0.33,
+      "playtime": 8.4,
       "clear": 0,
       "clearcount": [],
       "ranking": [
+        {
+          "score": 117100,
+          "time": 8.07,
+          "name": "BBB",
+          "chars": [
+            "lilith_mvc2",
+            "lilith_mvc2"
+          ],
+          "tmode": 3,
+          "ailevel": 5,
+          "win": 3,
+          "lose": 1,
+          "consecutive": 3
+        },
         {
           "score": 65000,
           "time": 0.33,
@@ -22,5 +36,5 @@
       ]
     }
   },
-  "playtime": 0.33
+  "playtime": 8.4
 }
