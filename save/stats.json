@@ -1,1 +1,26 @@
-{}
+{
+  "modes": {
+    "arcade": {
+      "playtime": 0.33,
+      "clear": 0,
+      "clearcount": [],
+      "ranking": [
+        {
+          "score": 65000,
+          "time": 0.33,
+          "name": "AAA",
+          "chars": [
+            "mvc2_hsien-ko",
+            "mvc2_hsien-ko"
+          ],
+          "tmode": 3,
+          "ailevel": 5,
+          "win": 1,
+          "lose": 1,
+          "consecutive": 1
+        }
+      ]
+    }
+  },
+  "playtime": 0.33
+}
