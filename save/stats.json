@@ -1,7 +1,7 @@
 {
   "modes": {
     "arcade": {
-      "playtime": 8.45,
+      "playtime": 40.32,
       "clear": 0,
       "clearcount": [],
       "ranking": [
@@ -12,6 +12,20 @@
           "chars": [
             "chunlixvssf",
             "chunlixvssf"
+          ],
+          "tmode": 3,
+          "ailevel": 5,
+          "win": 2,
+          "lose": 1,
+          "consecutive": 2
+        },
+        {
+          "score": 119300,
+          "time": 31.87,
+          "name": "MNO",
+          "chars": [
+            "ice ryu",
+            "ice ryu"
           ],
           "tmode": 3,
           "ailevel": 5,
@@ -50,5 +64,5 @@
       ]
     }
   },
-  "playtime": 8.45
+  "playtime": 40.32
 }
