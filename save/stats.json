@@ -62,6 +62,9 @@
           "consecutive": 1
         }
       ]
+    },
+    "versus": {
+      "playtime": 0
     }
   },
   "playtime": 40.32
