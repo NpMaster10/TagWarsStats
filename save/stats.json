@@ -65,6 +65,9 @@
     },
     "versus": {
       "playtime": 0
+    },
+    "training": {
+      "playtime": 0
     }
   },
   "playtime": 40.32
