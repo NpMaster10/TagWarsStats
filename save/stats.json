@@ -1,7 +1,7 @@
 {
   "modes": {
     "arcade": {
-      "playtime": 40.32,
+      "playtime": 1746.79,
       "clear": 0,
       "clearcount": [],
       "ranking": [
@@ -60,6 +60,20 @@
           "win": 1,
           "lose": 1,
           "consecutive": 1
+        },
+        {
+          "score": 42505,
+          "time": 1706.47,
+          "name": "AAA",
+          "chars": [
+            "mash",
+            "akira"
+          ],
+          "tmode": 3,
+          "ailevel": 5,
+          "win": 4,
+          "lose": 6,
+          "consecutive": 2
         }
       ]
     },
@@ -70,5 +84,5 @@
       "playtime": 0
     }
   },
-  "playtime": 1155.91
+  "playtime": 2862.38
 }
