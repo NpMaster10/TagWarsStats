@@ -1,91 +1,35 @@
 {
-  "modes": {
-    "arcade": {
-      "playtime": 1746.79,
-      "clear": 0,
-      "clearcount": [],
-      "ranking": [
-        {
-          "score": 130000,
-          "time": 0.05,
-          "name": "A",
-          "chars": [
-            "chunlixvssf",
-            "chunlixvssf"
-          ],
-          "tmode": 3,
-          "ailevel": 5,
-          "win": 2,
-          "lose": 1,
-          "consecutive": 2
+    "modes": {
+        "arcade": {
+            "playtime": 1746.79,
+            "clear": 0,
+            "clearcount": [],
+            "ranking": [
+                {
+                    "score": 42505,
+                    "time": 1706.47,
+                    "name": "AAA",
+                    "chars": [
+                        "mash",
+                        "akira"
+                    ],
+                    "tmode": 3,
+                    "ailevel": 5,
+                    "win": 4,
+                    "lose": 6,
+                    "consecutive": 2
+                }
+            ]
         },
-        {
-          "score": 119300,
-          "time": 31.87,
-          "name": "MNO",
-          "chars": [
-            "ice ryu",
-            "ice ryu"
-          ],
-          "tmode": 3,
-          "ailevel": 5,
-          "win": 2,
-          "lose": 1,
-          "consecutive": 2
+        "versus": {
+            "playtime": 19220.91
         },
-        {
-          "score": 117100,
-          "time": 8.07,
-          "name": "NP ",
-          "chars": [
-            "lilith_mvc2",
-            "lilith_mvc2"
-          ],
-          "tmode": 3,
-          "ailevel": 5,
-          "win": 3,
-          "lose": 1,
-          "consecutive": 3
+        "training": {
+            "playtime": 0
         },
-        {
-          "score": 65000,
-          "time": 0.33,
-          "name": "NP ",
-          "chars": [
-            "mvc2_hsien-ko",
-            "mvc2_hsien-ko"
-          ],
-          "tmode": 3,
-          "ailevel": 5,
-          "win": 1,
-          "lose": 1,
-          "consecutive": 1
-        },
-        {
-          "score": 42505,
-          "time": 1706.47,
-          "name": "AAA",
-          "chars": [
-            "mash",
-            "akira"
-          ],
-          "tmode": 3,
-          "ailevel": 5,
-          "win": 4,
-          "lose": 6,
-          "consecutive": 2
+        "versuscoop": {
+            "playtime": 16656.05
         }
-      ]
     },
-    "versus": {
-      "playtime": 19220.91
-    },
-    "training": {
-      "playtime": 0
-    },
-    "versuscoop": {
-      "playtime": 16656.05
-    }
-  },
-  "playtime": 37623.75
+    "playtime": 37623.75
 }
