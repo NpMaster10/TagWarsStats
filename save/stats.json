@@ -1,10 +1,24 @@
 {
   "modes": {
     "arcade": {
-      "playtime": 2692.04,
+      "playtime": 3123.57,
       "clear": 0,
       "clearcount": [],
       "ranking": [
+        {
+          "score": 352600,
+          "time": 431.53,
+          "name": "NPM",
+          "chars": [
+            "chalice",
+            "chalice"
+          ],
+          "tmode": 3,
+          "ailevel": 5,
+          "win": 4,
+          "lose": 1,
+          "consecutive": 4
+        },
         {
           "score": 42505,
           "time": 1706.47,
@@ -45,5 +59,5 @@
       "playtime": 16656.05
     }
   },
-  "playtime": 41566
+  "playtime": 41997.53
 }
