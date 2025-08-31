@@ -1,13 +1,28 @@
 {
   "modes": {
     "arcade": {
-      "playtime": 6471.97,
-      "clear": 2,
+      "playtime": 7351.34,
+      "clear": 3,
       "clearcount": {
         "shira angel": 1,
-        "kasim lv2-ckofm": 1
+        "kasim lv2-ckofm": 1,
+        "ingrid": 1
       },
       "ranking": [
+        {
+          "score": 558900,
+          "time": 879.37,
+          "name": "NPM",
+          "chars": [
+            "ingrid",
+            "nakoruru"
+          ],
+          "tmode": 3,
+          "ailevel": 5,
+          "win": 7,
+          "lose": 0,
+          "consecutive": 7
+        },
         {
           "score": 480600,
           "time": 887.23,
@@ -118,5 +133,5 @@
       "playtime": 16656.05
     }
   },
-  "playtime": 81214.72
+  "playtime": 82094.09
 }
