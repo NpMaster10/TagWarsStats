@@ -1,7 +1,7 @@
 {
   "modes": {
     "arcade": {
-      "playtime": 4010.8,
+      "playtime": 4433.12,
       "clear": 1,
       "clearcount": {
         "shira angel": 1
@@ -34,6 +34,20 @@
           "win": 4,
           "lose": 1,
           "consecutive": 4
+        },
+        {
+          "score": 281000,
+          "time": 422.32,
+          "name": "NPM",
+          "chars": [
+            "nakoruru",
+            "mvc2_spider-man"
+          ],
+          "tmode": 3,
+          "ailevel": 5,
+          "win": 3,
+          "lose": 1,
+          "consecutive": 3
         },
         {
           "score": 42505,
@@ -75,5 +89,5 @@
       "playtime": 16656.05
     }
   },
-  "playtime": 78753.55
+  "playtime": 79175.87
 }
