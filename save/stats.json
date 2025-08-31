@@ -1,10 +1,11 @@
 {
   "modes": {
     "arcade": {
-      "playtime": 5012.5,
-      "clear": 1,
+      "playtime": 6471.97,
+      "clear": 2,
       "clearcount": {
-        "shira angel": 1
+        "shira angel": 1,
+        "kasim lv2-ckofm": 1
       },
       "ranking": [
         {
@@ -64,6 +65,20 @@
           "consecutive": 3
         },
         {
+          "score": 72408,
+          "time": 1459.47,
+          "name": "ODE",
+          "chars": [
+            "kasim lv2-ckofm",
+            "ogre ex"
+          ],
+          "tmode": 3,
+          "ailevel": 5,
+          "win": 7,
+          "lose": 8,
+          "consecutive": 3
+        },
+        {
           "score": 42505,
           "time": 1706.47,
           "name": "VNOM",
@@ -103,5 +118,5 @@
       "playtime": 16656.05
     }
   },
-  "playtime": 79755.25
+  "playtime": 81214.72
 }
