@@ -1,7 +1,7 @@
 {
   "modes": {
     "arcade": {
-      "playtime": 7351.34,
+      "playtime": 8053.71,
       "clear": 3,
       "clearcount": {
         "shira angel": 1,
@@ -36,6 +36,20 @@
           "win": 7,
           "lose": 0,
           "consecutive": 7
+        },
+        {
+          "score": 478500,
+          "time": 702.37,
+          "name": "ODE",
+          "chars": [
+            "rock howard",
+            "bisonxvssf"
+          ],
+          "tmode": 3,
+          "ailevel": 5,
+          "win": 5,
+          "lose": 1,
+          "consecutive": 5
         },
         {
           "score": 357600,
@@ -133,5 +147,5 @@
       "playtime": 16656.05
     }
   },
-  "playtime": 82094.09
+  "playtime": 82796.46
 }
