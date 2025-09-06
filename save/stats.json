@@ -153,10 +153,27 @@
       "playtime": 279.8
     },
     "survival": {
-      "playtime": 157.47,
-      "clear": 0,
-      "clearcount": []
+      "playtime": 673.77,
+      "clear": 1,
+      "clearcount": {
+        "lucky": 1
+      },
+      "ranking": [
+        {
+          "score": 356600,
+          "time": 516.3,
+          "name": "LEE",
+          "chars": [
+            "lucky"
+          ],
+          "tmode": 3,
+          "ailevel": 5,
+          "win": 6,
+          "lose": 1,
+          "consecutive": 6
+        }
+      ]
     }
   },
-  "playtime": 104159.88
+  "playtime": 104676.18
 }
