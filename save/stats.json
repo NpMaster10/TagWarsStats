@@ -151,7 +151,12 @@
     },
     "watch": {
       "playtime": 279.8
+    },
+    "survival": {
+      "playtime": 157.47,
+      "clear": 0,
+      "clearcount": []
     }
   },
-  "playtime": 103525.77
+  "playtime": 103683.24
 }
