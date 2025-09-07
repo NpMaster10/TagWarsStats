@@ -1,7 +1,7 @@
 {
   "modes": {
     "arcade": {
-      "playtime": 8145.14,
+      "playtime": 8588.84,
       "clear": 3,
       "clearcount": {
         "shira angel": 1,
@@ -94,6 +94,20 @@
           "consecutive": 3
         },
         {
+          "score": 140800,
+          "time": 443.7,
+          "name": "NPM",
+          "chars": [
+            "nakoruru",
+            "dudley-mugen11"
+          ],
+          "tmode": 3,
+          "ailevel": 8,
+          "win": 2,
+          "lose": 1,
+          "consecutive": 2
+        },
+        {
           "score": 72408,
           "time": 1459.47,
           "name": "ODELL",
@@ -134,20 +148,6 @@
           "win": 6,
           "lose": 3,
           "consecutive": 6
-        },
-        {
-          "score": 16800,
-          "time": 91.43,
-          "name": "AAA",
-          "chars": [
-            "nakoruru",
-            "lilith_mvc2"
-          ],
-          "tmode": 3,
-          "ailevel": 8,
-          "win": 0,
-          "lose": 1,
-          "consecutive": 0
         }
       ]
     },
@@ -189,5 +189,5 @@
       ]
     }
   },
-  "playtime": 109570.73
+  "playtime": 110014.43
 }
