@@ -1,7 +1,7 @@
 {
   "modes": {
     "arcade": {
-      "playtime": 8053.71,
+      "playtime": 8145.14,
       "clear": 3,
       "clearcount": {
         "shira angel": 1,
@@ -134,6 +134,20 @@
           "win": 6,
           "lose": 3,
           "consecutive": 6
+        },
+        {
+          "score": 16800,
+          "time": 91.43,
+          "name": "AAA",
+          "chars": [
+            "nakoruru",
+            "lilith_mvc2"
+          ],
+          "tmode": 3,
+          "ailevel": 8,
+          "win": 0,
+          "lose": 1,
+          "consecutive": 0
         }
       ]
     },
@@ -175,5 +189,5 @@
       ]
     }
   },
-  "playtime": 106074.9
+  "playtime": 106166.33
 }
