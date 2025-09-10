@@ -1,7 +1,7 @@
 {
   "modes": {
     "arcade": {
-      "playtime": 8588.84,
+      "playtime": 9871.27,
       "clear": 3,
       "clearcount": {
         "shira angel": 1,
@@ -136,18 +136,18 @@
           "consecutive": 2
         },
         {
-          "score": 17802,
-          "time": 945.25,
-          "name": "NPM",
+          "score": 19305,
+          "time": 1282.43,
+          "name": "ADA",
           "chars": [
-            "lilith_mvc2",
-            "ingrid"
+            "nakoruru",
+            "susanoo mvc"
           ],
           "tmode": 3,
-          "ailevel": 5,
-          "win": 6,
-          "lose": 3,
-          "consecutive": 6
+          "ailevel": 8,
+          "win": 2,
+          "lose": 6,
+          "consecutive": 2
         }
       ]
     },
@@ -189,5 +189,5 @@
       ]
     }
   },
-  "playtime": 139905.13
+  "playtime": 141187.56
 }
