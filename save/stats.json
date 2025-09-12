@@ -167,7 +167,7 @@
       "playtime": 279.8
     },
     "survival": {
-      "playtime": 848.59,
+      "playtime": 1208.02,
       "clear": 1,
       "clearcount": {
         "lucky": 1
@@ -185,9 +185,23 @@
           "win": 6,
           "lose": 1,
           "consecutive": 6
+        },
+        {
+          "score": 79300,
+          "time": 359.43,
+          "name": "AAA",
+          "chars": [
+            "mai2",
+            "mai2"
+          ],
+          "tmode": 3,
+          "ailevel": 8,
+          "win": 1,
+          "lose": 1,
+          "consecutive": 1
         }
       ]
     }
   },
-  "playtime": 151833.66
+  "playtime": 152193.09
 }
